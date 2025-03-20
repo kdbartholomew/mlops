@@ -53,18 +53,4 @@ To explore the projects locally, follow these steps:
 
 Each project folder contains its own set of instructions for running the code and understanding the results. Please refer to the `README.md` file within each project directory for specific details.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For any questions or inquiries, please contact me at [your.email@example.com](mailto:your.email@example.com).
-
----
-
 Thank you for exploring this collection of AI projects. I hope you find them insightful and valuable.
