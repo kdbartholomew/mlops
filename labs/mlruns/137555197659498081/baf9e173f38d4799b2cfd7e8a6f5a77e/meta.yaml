@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/baf9e173f38d4799b2cfd7e8a6f5a77e/artifacts
+end_time: 1742880806173
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: baf9e173f38d4799b2cfd7e8a6f5a77e
+run_name: lyrical-kit-823
+run_uuid: baf9e173f38d4799b2cfd7e8a6f5a77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880801147
+status: 3
+tags: []
+user_id: kdb

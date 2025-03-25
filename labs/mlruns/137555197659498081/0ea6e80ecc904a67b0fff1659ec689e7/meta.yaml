@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/0ea6e80ecc904a67b0fff1659ec689e7/artifacts
+end_time: 1742880838654
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 0ea6e80ecc904a67b0fff1659ec689e7
+run_name: efficient-seal-522
+run_uuid: 0ea6e80ecc904a67b0fff1659ec689e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880834006
+status: 3
+tags: []
+user_id: kdb

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/b651cf55a5034f8aadd46523dcc2f5e2/artifacts
+end_time: 1742880736401
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: b651cf55a5034f8aadd46523dcc2f5e2
+run_name: victorious-bird-261
+run_uuid: b651cf55a5034f8aadd46523dcc2f5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880731919
+status: 3
+tags: []
+user_id: kdb

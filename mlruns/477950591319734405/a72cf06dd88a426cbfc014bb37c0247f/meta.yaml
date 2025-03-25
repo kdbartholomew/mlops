@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/a72cf06dd88a426cbfc014bb37c0247f/artifacts
+end_time: 1742880041124
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: a72cf06dd88a426cbfc014bb37c0247f
+run_name: redolent-wasp-430
+run_uuid: a72cf06dd88a426cbfc014bb37c0247f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880033395
+status: 3
+tags: []
+user_id: kdb

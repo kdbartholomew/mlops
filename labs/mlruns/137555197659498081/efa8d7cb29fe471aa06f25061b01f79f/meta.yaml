@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/efa8d7cb29fe471aa06f25061b01f79f/artifacts
+end_time: 1742880654893
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: efa8d7cb29fe471aa06f25061b01f79f
+run_name: worried-panda-446
+run_uuid: efa8d7cb29fe471aa06f25061b01f79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880650533
+status: 3
+tags: []
+user_id: kdb

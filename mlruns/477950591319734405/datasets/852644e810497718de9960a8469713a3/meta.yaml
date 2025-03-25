@@ -1,0 +1,9 @@
+digest: d24ace67
+name: dataset
+profile: '{"features_shape": [34, 512], "features_size": 17408, "features_nbytes":
+  69632}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 512]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "kdb", "mlflow.source.name": "/home/kdb/miniconda3/envs/mlops_2/lib/python3.9/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

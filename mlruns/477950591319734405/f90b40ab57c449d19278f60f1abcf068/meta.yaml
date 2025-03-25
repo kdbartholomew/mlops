@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/f90b40ab57c449d19278f60f1abcf068/artifacts
+end_time: 1742880057945
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: f90b40ab57c449d19278f60f1abcf068
+run_name: exultant-bird-978
+run_uuid: f90b40ab57c449d19278f60f1abcf068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880041177
+status: 3
+tags: []
+user_id: kdb

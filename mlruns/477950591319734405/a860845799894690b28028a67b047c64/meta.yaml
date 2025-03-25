@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/a860845799894690b28028a67b047c64/artifacts
+end_time: 1742879896792
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: a860845799894690b28028a67b047c64
+run_name: welcoming-gull-434
+run_uuid: a860845799894690b28028a67b047c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742879887459
+status: 3
+tags: []
+user_id: kdb

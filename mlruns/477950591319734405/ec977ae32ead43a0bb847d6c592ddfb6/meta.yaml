@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/ec977ae32ead43a0bb847d6c592ddfb6/artifacts
+end_time: 1742880067827
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: ec977ae32ead43a0bb847d6c592ddfb6
+run_name: sneaky-hound-129
+run_uuid: ec977ae32ead43a0bb847d6c592ddfb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880057989
+status: 3
+tags: []
+user_id: kdb

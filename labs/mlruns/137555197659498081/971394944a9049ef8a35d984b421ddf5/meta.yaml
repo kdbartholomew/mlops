@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/971394944a9049ef8a35d984b421ddf5/artifacts
+end_time: 1742880731870
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 971394944a9049ef8a35d984b421ddf5
+run_name: intrigued-dolphin-66
+run_uuid: 971394944a9049ef8a35d984b421ddf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880727282
+status: 3
+tags: []
+user_id: kdb

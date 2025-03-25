@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/ea141d0a3b364ddc884c6355543d60c5/artifacts
+end_time: 1742880824486
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: ea141d0a3b364ddc884c6355543d60c5
+run_name: lyrical-sponge-293
+run_uuid: ea141d0a3b364ddc884c6355543d60c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880819491
+status: 3
+tags: []
+user_id: kdb

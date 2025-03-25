@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/08706a3b6a214d0099a3aa60c10902b9/artifacts
+end_time: 1742880750146
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 08706a3b6a214d0099a3aa60c10902b9
+run_name: secretive-snail-858
+run_uuid: 08706a3b6a214d0099a3aa60c10902b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880745372
+status: 3
+tags: []
+user_id: kdb

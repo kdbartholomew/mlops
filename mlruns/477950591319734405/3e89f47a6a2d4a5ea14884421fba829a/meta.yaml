@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/3e89f47a6a2d4a5ea14884421fba829a/artifacts
+end_time: 1742879975126
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: 3e89f47a6a2d4a5ea14884421fba829a
+run_name: orderly-wren-280
+run_uuid: 3e89f47a6a2d4a5ea14884421fba829a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742879967764
+status: 3
+tags: []
+user_id: kdb

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/d5d0de7df2204ecf98aa68c0b23e5e41/artifacts
+end_time: 1742880024699
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: d5d0de7df2204ecf98aa68c0b23e5e41
+run_name: gaudy-eel-552
+run_uuid: d5d0de7df2204ecf98aa68c0b23e5e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880014366
+status: 3
+tags: []
+user_id: kdb

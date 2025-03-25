@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/c354991be84d4436b19192f78d4b2199/artifacts
+end_time: 1742879936408
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: c354991be84d4436b19192f78d4b2199
+run_name: defiant-vole-972
+run_uuid: c354991be84d4436b19192f78d4b2199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742879927341
+status: 3
+tags: []
+user_id: kdb

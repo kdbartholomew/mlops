@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/mlruns/477950591319734405/4b1e185a37dd42a397fc84eba03f23c3/artifacts
+end_time: 1742880089031
+entry_point_name: ''
+experiment_id: '477950591319734405'
+lifecycle_stage: active
+run_id: 4b1e185a37dd42a397fc84eba03f23c3
+run_name: bouncy-fox-804
+run_uuid: 4b1e185a37dd42a397fc84eba03f23c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880077312
+status: 4
+tags: []
+user_id: kdb

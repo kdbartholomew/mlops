@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081
+creation_time: 1742880595229
+experiment_id: '137555197659498081'
+last_update_time: 1742880595229
+lifecycle_stage: active
+name: RandomForest_Tuning
