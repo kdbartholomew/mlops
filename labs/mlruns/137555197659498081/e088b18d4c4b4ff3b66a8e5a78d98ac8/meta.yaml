@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/e088b18d4c4b4ff3b66a8e5a78d98ac8/artifacts
+end_time: 1742880745331
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: e088b18d4c4b4ff3b66a8e5a78d98ac8
+run_name: lyrical-duck-700
+run_uuid: e088b18d4c4b4ff3b66a8e5a78d98ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880740664
+status: 3
+tags: []
+user_id: kdb

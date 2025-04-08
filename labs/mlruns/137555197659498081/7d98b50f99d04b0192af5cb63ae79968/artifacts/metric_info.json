@@ -1,0 +1,3 @@
+{
+  "accuracy_score_unknown_dataset": "accuracy_score(y_true=<Series>, y_pred=preds)"
+}

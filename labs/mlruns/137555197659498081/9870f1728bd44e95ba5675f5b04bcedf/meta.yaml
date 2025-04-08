@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/9870f1728bd44e95ba5675f5b04bcedf/artifacts
+end_time: 1742880811038
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 9870f1728bd44e95ba5675f5b04bcedf
+run_name: righteous-moth-136
+run_uuid: 9870f1728bd44e95ba5675f5b04bcedf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880806221
+status: 3
+tags: []
+user_id: kdb

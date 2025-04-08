@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/e4ebce7c67a14dfe866b6d07fdabbfd7/artifacts
+end_time: 1742880688014
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: e4ebce7c67a14dfe866b6d07fdabbfd7
+run_name: puzzled-fawn-715
+run_uuid: e4ebce7c67a14dfe866b6d07fdabbfd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880683466
+status: 3
+tags: []
+user_id: kdb

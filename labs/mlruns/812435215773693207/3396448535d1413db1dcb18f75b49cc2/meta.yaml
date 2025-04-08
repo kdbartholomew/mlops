@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catalinabartholomew/Documents/msdsMac/springMod2/specialTopicsInAI/labs/mlruns/812435215773693207/3396448535d1413db1dcb18f75b49cc2/artifacts
+end_time: 1742880610255
+entry_point_name: ''
+experiment_id: '812435215773693207'
+lifecycle_stage: active
+run_id: 3396448535d1413db1dcb18f75b49cc2
+run_name: orderly-ant-154
+run_uuid: 3396448535d1413db1dcb18f75b49cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880538372
+status: 3
+tags: []
+user_id: kdb

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/2136ceb6a19748c69ba598320f883ca1/artifacts
+end_time: 1742880778945
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 2136ceb6a19748c69ba598320f883ca1
+run_name: rare-shad-841
+run_uuid: 2136ceb6a19748c69ba598320f883ca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880774520
+status: 3
+tags: []
+user_id: kdb

@@ -39,3 +39,20 @@ ENV/
 
 # DVC
 /data
+
+# macOS system files
+.DS_Store
+
+# MLflow files
+mlflow.db
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Other common files to ignore
+.env
+.venv/

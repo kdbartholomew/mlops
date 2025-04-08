@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/35cbd9864e7344ab84d2b01e4f6ed238/artifacts
+end_time: 1742880635468
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 35cbd9864e7344ab84d2b01e4f6ed238
+run_name: judicious-squid-848
+run_uuid: 35cbd9864e7344ab84d2b01e4f6ed238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880631240
+status: 3
+tags: []
+user_id: kdb

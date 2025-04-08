@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kdb/Documents/msds/springMod2/specialTopics/mlops/labs/mlruns/137555197659498081/109929bb731b48089273f2932b64b7fc/artifacts
+end_time: 1742880664405
+entry_point_name: ''
+experiment_id: '137555197659498081'
+lifecycle_stage: active
+run_id: 109929bb731b48089273f2932b64b7fc
+run_name: debonair-zebra-453
+run_uuid: 109929bb731b48089273f2932b64b7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742880659518
+status: 3
+tags: []
+user_id: kdb
