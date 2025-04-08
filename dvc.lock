@@ -1,0 +1,36 @@
+schema: '2.0'
+stages:
+  prepare:
+    cmd: python labs/lab3/create_features.py
+    deps:
+    - path: data/adult.data
+      hash: md5
+      md5: 37e0eaca20883876a1fbe0553fb806b4
+      size: 5977437
+      isexec: true
+    - path: data/adult.test
+      hash: md5
+      md5: 366c746021dc50ad9d933d2817612fc9
+      size: 2003132
+      isexec: true
+    - path: labs/lab3/create_features.py
+      hash: md5
+      md5: b93aea27ba45f8b24bdd52928f1f2b99
+      size: 2564
+      isexec: true
+    outs:
+    - path: data/pipeline.pkl
+      hash: md5
+      md5: f0475cd51074616c52736d52e7db5819
+      size: 6097
+      isexec: true
+    - path: data/processed_test_data.csv
+      hash: md5
+      md5: 8be885343f7be8749e200083b9cd5dcf
+      size: 5393665
+      isexec: true
+    - path: data/processed_train_data.csv
+      hash: md5
+      md5: ea19ac93e78ae6cf1f6aff1f9922939b
+      size: 16203178
+      isexec: true
