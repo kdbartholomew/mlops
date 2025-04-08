@@ -1,36 +1,31 @@
 schema: '2.0'
 stages:
   prepare:
-    cmd: python labs/lab3/create_features.py
+    cmd: python src/preprocessing.py
     deps:
-    - path: data/adult.data
+    - path: src/preprocessing.py
       hash: md5
-      md5: 37e0eaca20883876a1fbe0553fb806b4
-      size: 5977437
-      isexec: true
-    - path: data/adult.test
-      hash: md5
-      md5: 366c746021dc50ad9d933d2817612fc9
-      size: 2003132
-      isexec: true
-    - path: labs/lab3/create_features.py
-      hash: md5
-      md5: b93aea27ba45f8b24bdd52928f1f2b99
-      size: 2564
+      md5: 3642fea2f8c0283eaf81c2edb3449f7e
+      size: 1196
       isexec: true
     outs:
-    - path: data/pipeline.pkl
+    - path: data/processed_test_features.csv
       hash: md5
-      md5: f0475cd51074616c52736d52e7db5819
-      size: 6097
+      md5: fb85f517b8a802e6d0cd266e12776e35
+      size: 740189
       isexec: true
-    - path: data/processed_test_data.csv
+    - path: data/processed_train_features.csv
       hash: md5
-      md5: 8be885343f7be8749e200083b9cd5dcf
-      size: 5393665
+      md5: 682c3d671066032528f66bca1fdee02d
+      size: 2959661
       isexec: true
-    - path: data/processed_train_data.csv
+    - path: data/test_target.csv
       hash: md5
-      md5: ea19ac93e78ae6cf1f6aff1f9922939b
-      size: 16203178
+      md5: 2903cf024ef6300f9a596495640cfb0f
+      size: 24473
+      isexec: true
+    - path: data/train_target.csv
+      hash: md5
+      md5: 46fedb3f66c8485f2b6947dd351fdc0b
+      size: 97961
       isexec: true
