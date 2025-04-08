@@ -1,6 +1,6 @@
-# Data files
-/data/*
-!data/*.dvc
+# Data
+/data/*        
+!data/*.dvc  
 
 # Python
 __pycache__/
@@ -56,3 +56,8 @@ __pycache__/
 # Other common files to ignore
 .env
 .venv/
+
+# Add these lines to your .gitignore
+mlruns/
+mlflow/
+*.pkl
