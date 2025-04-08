@@ -1,6 +1,6 @@
-# Data
+# Data and DVC
 /data/*        
-!data/*.dvc  
+!data/*.dvc    
 
 # Python
 __pycache__/
@@ -37,27 +37,13 @@ env/
 venv/
 ENV/
 
-# DVC
-/data
-
 # macOS system files
 .DS_Store
 
 # MLflow files
 mlflow.db
 models/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-
-# Other common files to ignore
-.env
-.venv/
-
-# Add these lines to your .gitignore
 mlruns/
 mlflow/
 *.pkl
+

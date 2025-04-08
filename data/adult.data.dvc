@@ -1,0 +1,6 @@
+outs:
+- md5: 37e0eaca20883876a1fbe0553fb806b4
+  size: 5977437
+  isexec: true
+  hash: md5
+  path: adult.data
