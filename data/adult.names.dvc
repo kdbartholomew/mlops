@@ -1,6 +1,0 @@
-outs:
-- md5: 1a7cdb3ff7a1b709968b1c7a11def63e
-  size: 5229
-  isexec: true
-  hash: md5
-  path: adult.names
