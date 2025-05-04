@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: reddit-model-deployment
+  labels:
+    app: reddit-model
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: reddit-model
+  template:
+    metadata:
+      labels:
+        app: reddit-model
+    spec:
+      containers:
+      - name: reddit-model
+        image: gcr.io/lab9-458822/reddit-model:latest
+        ports:
+        - containerPort: 8000
+        resources:
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+          requests:
+            memory: "256Mi"
+            cpu: "250m" 
